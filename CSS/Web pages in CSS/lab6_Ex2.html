@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Red square</title>
+  <style>
+  body{
+  background-color: LightSteelBlue;
+  }
+    #myDiv {
+      width: 10px;
+      height: 10px;
+      background-color: red;
+      position: relative;
+    }
+  </style>
+</head>
+<body>
+  <div id="myDiv"></div>
+
+  <script>
+  
+    var div = document.getElementById("myDiv");
+    var x = 0;
+    var y = 0;
+
+    window.addEventListener("keydown", function(event) {
+      var key = event.keyCode;
+      switch (key) {
+        case 37: // Arrow Left
+          x -= 10;
+          break;
+        case 38: // Arrow Up
+          y -= 10;
+          break;
+        case 39: // Arrow Right
+          x += 10;
+          break;
+        case 40: // Arrow Down
+          y += 10;
+          break;
+      }
+      div.style.left = x + "px";
+      div.style.top = y + "px";
+    });
+  </script>
+</body>
+</html>

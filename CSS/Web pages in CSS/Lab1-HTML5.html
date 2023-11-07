@@ -1,0 +1,164 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<title><b>Cats</b></title>
+	<style>
+		.body{
+			background-color:Thistle
+		}
+		.myTable {
+			background-color:RosyBrown ;
+			text-align: center;
+		}
+		.table, th, td {
+			border: 1px solid black;
+			
+		}
+		
+		h1 {
+			text-align: center;
+		}
+		.all-browsers {
+			margin: 0;
+			padding: 5px;
+			background-color: PaleGoldenRod;
+			text-align: center;
+		}
+		aside {
+			width: 30%;
+			padding-left: 15px;
+			margin-left: 15px;
+			float: right;
+			font-style: italic;
+			background-color: lightgray;
+		}
+		footer {
+			text-align: center;
+			padding: 3px;
+			background-color: PaleVioletRed;
+			color: white;
+			border-style: inset
+		}
+		h4{
+			text-align: center;
+			border-style: dotted;
+		}
+	</style>
+</head>
+
+<body>
+
+<main>
+	<section>
+		<article class="all-browsers">
+			<header>
+				<h1><strong>Cat breeds I like</strong></h1>
+
+				<p>Here I will present some cat breeds that I <span style="color:red;font-weight:bold">like</span><br> and I will also 
+				give a score from 1-10 <br>to show which is my <span style="color:blue;font-weight:bold">favorite</span> breed.</p>
+			</header>
+		</article>
+	</section>
+
+	<section>
+		<div class="myTable" >
+		<header>
+			<h2><strong>Table</strong></h2>
+		</header>
+			<aside>
+				<table >
+				  <tr>
+					<th >Breeds</th>
+					<th >Score</th>
+				  </tr>
+				  <tr>
+					<td >
+						<figure>
+							<img src="Cats/Ragdoll.png" alt="Ragdoll" style="width:100%">
+							<figcaption>Ragdoll</figcaption>
+						</figure>
+					</td>
+					<td >10</td>
+				  </tr>
+				  <tr>
+					<td >
+						<figure>
+							<img src="Cats/Siamese.jpg" alt="Siamese" style="width:100%">
+							<figcaption>Siamese</figcaption>
+						</figure>
+					</td>
+					<td >9</td>
+				  </tr>
+				  <tr>
+					<td >
+						<figure>
+							<img src="Cats/Main-Coon.jpg" alt="Maine Coon" style="width:100%">
+							<figcaption>Main-Coon</figcaption>
+						</figure>
+					</td>
+					<td >9</td>
+				  </tr>
+				</table>
+			</aside>
+		</div>
+	</section>
+
+	<header>
+		<h3 style="text-align: center"><strong>Cat breeds links</strong></h3>
+	</header>
+	
+
+	<nav>
+		<ul>
+		  <li><a href ="https://en.wikipedia.org/wiki/Ragdoll">Visit for more info on Ragdoll!</a></li>
+		  <li><a href ="https://en.wikipedia.org/wiki/Siamese_cat">Visit for more info on Siamese!</a></li>
+		  <li><a href ="https://ro.wikipedia.org/wiki/Maine_Coon">Visit for more info on Maine Coon!</a></li>
+		</ul>
+	</nav>
+
+	<header>
+		<h4><strong>WHY I LIKE CATS?</strong></h4>
+		<details>
+		  <summary>Reasons why:</summary>
+			<ol style="list-style-type:upper-roman">
+				<li>They are cute;</li>
+				<li>They are independent;</li>
+				<li>They are small and portable.</li>
+			</ol>
+		</details>
+	</header>
+
+	<header>
+		<h5 style="font-size:20px">Want more info on cat breeds?</h5>
+		<p>Open link in a new window or tab: <a href="https://www.purina.com/cats/cat-breeds" 
+		target="_blank">Visit for more info on cats!</a></p>
+	</header>
+
+	<header>
+		<h6 style="font-size:20px"><b>Do you also like cats? Tell us more about you!</b></h6>
+	</header>
+
+	<footer>
+		<form action="/action_page.php">
+		  <fieldset>
+			<legend>Person:</legend>
+			<label for="fname">First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+			<label for="lname">Last name:</label>
+			<input type="text" id="lname" name="lname"><br><br>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email"><br><br>
+			<label for="birthday">Birthday:</label>
+			<input type="date" id="birthday" name="birthday"><br><br>
+			<input type="submit" value="Submit">
+		  </fieldset>
+		</form>
+	</footer>
+
+</main>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+body{
+	background-color:white
+	font-family: Arial;
+	margin: 0;
+	}
+aside {
+	padding-left: 15px;
+	margin-left: 15px;
+	float:right;
+	font-style: italic;
+	flex: 30%;
+}
+
+aside p{
+  	display: block;
+	font-size: 15px;
+	padding: 15px;
+}
+
+footer {
+	flex:30%;
+	background-color: Beige;
+	display: block;
+	font-size: auto;
+	padding: 70px;
+    text-align: left;
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  background-color: white;
+  
+}
+
+.navbar a {
+  color: black;
+  padding: 14px 20px;
+  text-decoration: none;
+  float: right;
+}
+.navbar h1 {
+  color: black;
+  padding: 14px 20px;
+  text-decoration: none;
+  text-align: left;
+}
+.navbar a:hover {
+  background-color: Gainsboro;
+  color: black;
+}
+
+img{
+border-radius: 4px;
+padding: 5px;
+width: 50px;
+	
+}
+
+
+/* Column container */
+.row {  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+
+.side {
+  flex: 30%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+.side img{
+	  width: 100%;
+}
+
+.main {
+  flex: 70%;
+  background-color: white;
+  padding: 20px;
+}
+
+
+@media screen and (max-width: 700px) {
+  .row, .navbar {   
+    flex-direction: column;
+  }
+}
+

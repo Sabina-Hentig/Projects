@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+</style>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title><b>Cats</b></title>
+</head>
+<body style="background-color:LightCyan">
+
+<main>
+<h1><strong>Personality</strong></h1>
+
+<div class="container">
+  <img src="Cats/Ragdoll.png" class="image">
+  <div class="overlay">
+    <div class="text"> Gentle, calm and dog-like</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="Cats/Siamese.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Highly intelligent, talkative and sociable</div>
+  </div>
+</div>
+
+<div class="container">
+  <img src="Cats/Main-Coon.jpg" alt="Avatar" class="image">
+  <div class="overlay">
+    <div class="text">Friendly, affectionate and goofy</div>
+  </div>
+</div>
+
+</main>
+
+</body>
+</html>

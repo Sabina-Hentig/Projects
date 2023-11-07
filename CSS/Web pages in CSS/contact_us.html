@@ -1,0 +1,103 @@
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		* {
+		  margin: 0;
+		  padding: 0;
+		}
+
+		.subscribe {
+		  position: absolute;
+		  left: 50%;
+		  top: 50%;
+		  -webkit-transform: translate(-50%, -50%);
+		  -moz-transform: translate(-50%, -50%);
+		  -o-transform: translate(-50%, -50%);
+		  transform: translate(-50%, -50%);
+		  width: 400px;
+		  
+		}
+
+		input:focus {
+		  outline: 0;
+		}
+
+		a {
+		  text-decoration: none;
+		}
+
+		ul {
+		  list-style: none;
+		}
+
+		input[type="submit"]{
+		  display: block;
+		  margin: 0 auto;
+		  width: 50%;
+		  height: 50px;
+		  font-family: Helvetica;
+		  border-bottom: 5px solid RebeccaPurple;
+		  border-top: none;
+		  border-left: none;
+		  border-right: none;
+		  background: linear-gradient(#d75fff,#9953df);
+		  color: white;
+		  border-radius: 10px;
+		  box-shadow: 0px 2px 10px purple;
+		  transition: 150ms ease;
+		  font-weight: bold;
+		}
+
+		input[type="submit"]:active{
+		  border: none;
+		  border-bottom: 2px solid RebeccaPurple;
+		  box-shadow: 0px 1px 5px purple;
+		  background: linear-gradient(#f653ff,#ff53df);
+		  color: #FFF;
+		}
+
+		}
+	</style>
+	<link rel="stylesheet" href="lab3.css">
+	<link rel="stylesheet"
+        href=
+"https://unpkg.com/purecss@2.0.6/build/pure-min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title><b>Cats</b></title>
+</head>
+<body>
+
+<main>
+<h1><strong>Contact us</strong></h1>
+
+	<header>
+		<h4 style="font-size:20px"><b>Do you also like cats? Tell us more about you!</b></h4>
+	</header>
+
+	<footer>
+		<form action="/action_page.php">
+		  <fieldset>
+			<legend>Person:</legend>
+			<label for="fname">First name:</label>
+			<input type="text" id="fname" name="fname"><br><br>
+			<label for="lname">Last name:</label>
+			<input type="text" id="lname" name="lname"><br><br>
+			<label for="email">Email:</label>
+			<input type="email" id="email" name="email"><br><br>
+			<label for="birthday">Birthday:</label>
+			<input type="date" id="birthday" name="birthday"><br><br>
+			<div class="subscribe" >
+				<input type="submit" class="btn" value="Submit" style="font-size: 16px" disabled><br />
+
+			</div>
+
+		  </fieldset>
+		</form>
+	</footer>
+
+</main>
+
+</body>
+</html>

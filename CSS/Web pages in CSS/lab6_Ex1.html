@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="stylesheet" href="lab3.css">
+	<link rel="stylesheet"
+        href=
+"https://unpkg.com/purecss@2.0.6/build/pure-min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Formular</title>
+</head>
+<body>
+
+<main>
+  <form>
+    <label for="inputText">Text:</label>
+    <input type="text" id="inputText">
+    <br><br>
+    <label for="selectOption">Select an option:</label>
+    <select id="selectOption" onchange="updateInput()">
+      <option value="">- Choose -</option>
+      <option value="Opțiune 1">Ragdoll</option>
+      <option value="Opțiune 2">Main Coon</option>
+      <option value="Opțiune 3">Siamese</option>
+    </select>
+  </form>
+
+  <script>
+    function updateInput() {
+      var select = document.getElementById("selectOption");
+      var input = document.getElementById("inputText");
+      var selectedOption = select.options[select.selectedIndex].value;
+      input.value = selectedOption;
+    }
+  </script>
+</body>
+</html>
+
+</main>
+
+</body>
+</html>

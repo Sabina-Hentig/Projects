@@ -1,0 +1,113 @@
+ <!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+<style>
+	.body{
+		background-color:Cornsilk
+	}
+	.legend {
+		background-color:RosyBrown ;
+		text-align: center;
+	}
+	.myForm{
+		background-color:GhostWhite;
+		text-align: center;
+
+	}
+	.myFormTitle1{
+		background-color:Maroon;
+		text-align: center;
+		color: Linen;
+	}
+	.myFormTitle2{
+		background-color:purple;
+		text-align: center;
+		color: Linen;
+	}
+	.myTitle{
+		text-align: center;
+	}
+	.miniTitle{
+		text-align: center;
+		
+	}
+</style>
+	<meta charset="utf-8">
+	<title><b>Sondaj pentru video games</b></title>
+</head>
+
+<body>
+
+<main>
+
+	<div class="myTitle">
+		<h1><strong>Video Games</strong></h1>
+	</div>
+
+	<div class="myForm">
+		<form action="/action_page.php" method="get">
+			<fieldset>
+			<legend>Sondaj:</legend>
+				<div class="myFormTitle1">
+					<h1>Personal information</h1>
+				</div><br>
+ 
+				<label for="first_name">First name:</label>
+				<input type="text" id="first_name" name="first_name"><br><br>
+				<label for="last_name">Last name:</label>
+				<input type="text" id="last_name" name="last_name"><br><br>
+				<label for="email">Email:</label>
+				<input type="email" id="email" name="email" size="35"><br><br>
+				<label for="birthday">Birthday:</label>
+				<input type="date" id="birthday" name="birthday"><br><br>
+				<label for="country-choice">Choose your country from the list:</label>
+				<input list="country" name="country" id="country-choice">
+					<datalist id="country">
+					  <option value="Romania">
+					  <option value="England">
+					  <option value="Franch">
+					  <option value="Germany">
+					  <option value="USA">
+					</datalist> <br>
+ 
+				<div class="miniTitle">
+					<h3>Gender:</h3>
+				</div>
+				 <input type="checkbox" id="gender1" name="gender" value="Male">
+				 <label for="gender1"> Male </label><br>
+				 <input type="checkbox" id="gender2" name="gender" value="Female"> 
+				 <label for="gender2"> Female </label><br>
+				 <input type="checkbox" id="gender3" name="gender" value="Other" checked>
+				 <label for="gender1" > Other </label><br>
+  
+				<div class="myFormTitle2">
+					<h2>Video game information:</h2>
+				</div><br>
+				<label for="games">Choose the game that you played:</label>
+					<select name="games" id="games"  multiple>
+						<option value="Genshin Impact" selected>Genshin Impact</option>
+						<option value="Honkai Impact 3rd">Honkai Impact 3rd</option>
+						<option value="Tears of Themis">Tears of Themis</option>
+						<option value="Honkai: Star Rail">Honkai: Star Rail</option>
+					</select>
+					<p>Hold down the Ctrl (windows) or Command (Mac) button to select multiple options.</p>
+				<br><br>
+  
+				<div class="myFormText">
+					<p>Tell us your opinion about the games(Max. 10 lines):</p>
+					<textarea rows="10" cols="100" maxlength="10"></textarea>
+				</div>
+  
+				<input type="submit" value="Submit" disabled>
+				<p>Submit button is inactive for the moment.</p>
+			</fieldset>
+		</form>
+	</div>
+
+</main>
+
+</body>
+</html>

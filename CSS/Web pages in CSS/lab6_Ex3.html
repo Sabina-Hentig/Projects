@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Validate Input</title>
+  <style>
+  body{
+  background-color: LightSalmon
+  }
+    .valid {
+      color: green;
+    }
+
+    .invalid {
+      color: red;
+    }
+  </style>
+</head>
+<body>
+  <form>
+    <label for="input1">Password:</label>
+    <input type="text" id="input1" oninput="validateInput(this)">
+    <span id="input1Indicator"></span>
+    <br><br>
+    <label for="input2">Validate Password:</label>
+    <input type="text" id="input2" oninput="validateInput(this)">
+    <span id="input2Indicator"></span>
+  </form>
+
+  <script>
+    function validateInput(input) {
+      var inputValue = input.value;
+
+      if (/^[a-zA-Z]+$/.test(inputValue)) {
+        input.nextElementSibling.className = "valid";
+        input.nextElementSibling.textContent = "●";
+      } else {
+        input.nextElementSibling.className = "invalid";
+        input.nextElementSibling.textContent = "●";
+      }
+    }
+  </script>
+</body>
+</html>

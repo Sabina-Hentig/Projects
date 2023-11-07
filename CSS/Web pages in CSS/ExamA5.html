@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Create Squares</title>
+  <style>
+    .square {
+      width: 10px;
+      height: 10px;
+      background-color: blue;
+      position: absolute;
+    }
+  </style>
+</head>
+<body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      document.addEventListener("click", function(event) {
+        var square = document.createElement("div");
+        square.classList.add("square");
+        square.style.left = (event.pageX - 5) + "px"; // Adjust the position to center the square
+        square.style.top = (event.pageY - 5) + "px";
+        document.body.appendChild(square);
+      });
+    });
+  </script>
+</body>
+</html>

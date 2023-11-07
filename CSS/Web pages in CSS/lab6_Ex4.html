@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>List</title>
+</head>
+<body>
+  <ol id="myList"></ol>
+
+  <script>
+    var list = document.getElementById("myList");
+
+    for (var i = 1; i <= 5; i++) {
+      var listItem = document.createElement("li");
+      listItem.textContent = "Element " + (i+1);
+      list.appendChild(listItem);
+    }
+  </script>
+</body>
+</html>
