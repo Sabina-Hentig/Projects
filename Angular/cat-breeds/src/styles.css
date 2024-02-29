@@ -1,0 +1,7 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("src/assets/poze/Background3.jpg");
+    background-size: cover;
+    background-blend-mode: difference;
+  }
+  

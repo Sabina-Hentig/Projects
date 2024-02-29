@@ -1,0 +1,81 @@
+h2{
+    background-color: #1e8cc8;
+    border-radius: 2px;
+    padding: 1rem;
+    font-size: 2.0rem;
+    text-decoration: none;
+    display: grid;
+    color: #341d0c;
+    text-align: center;
+    width: 100%;
+    min-width: 70px;
+    margin: .5rem auto;
+    box-sizing: border-box;
+
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+}
+
+.breed {
+    margin: 0 0 3em 0;
+    list-style-type: none;
+    padding: 0;
+    width: 25em;
+    
+}
+
+.breed li {
+    position: relative;
+    cursor: pointer;
+    
+}
+
+.breed li:hover {
+    left: .2em;
+}
+
+.breed a {
+    color: #128da0;
+    text-decoration: none;
+    background-color: #03d9ff;
+    margin: .7em;
+    padding: .5em 0;
+    height: 1.6em;
+    border-radius: 8px;
+    display: block;
+    width: 100%;
+
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+}
+
+.breed a:hover {
+    color: #1e25a2;
+    background-color: #009266;
+}
+
+.breed a:active {
+    background-color: #09b5b0;
+    color: #011599;
+}
+
+.breed .badge {
+    display: grid;
+    font-size: small;
+    color: rgb(90, 30, 132);
+    padding: 1.0em 1.7em 0 0.9em;
+    background-color: #539add;
+    line-height: 1em;
+    position: relative;
+    left: -1px;
+    top: -4px;
+    height: 1.8em;
+    min-width: 16px;
+    text-align: center;
+    margin-right: .8em;
+    border-radius: 8px 0 0 8px;
+    
+}
+

@@ -1,0 +1,6 @@
+<h2>Top Breeds</h2>
+<div class="breeds-menu">
+    <a *ngFor="let breed of breed" routerLink="/breeds/detail/{{breed.id}}">
+        {{breed.name}}
+    </a>
+</div>

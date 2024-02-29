@@ -1,0 +1,22 @@
+<h2>Cute cat breeds</h2>
+
+<div class="breeds">
+
+    <p><a routerLink="/breeds/add">Add</a></p>
+    <div class="table">
+        <li *ngFor="let breed of breed">
+        <a routerLink="/breeds/detail/{{breed.id}}">
+            <span class="badge">{{breed.id}}</span>  
+                {{breed.name}}, Life Span: {{breed.lifeSpan}},
+                Description: {{breed.description}}
+        </a>
+        <div class="delete"><a routerLink="/breeds/delete/{{breed.id}}">Delete</a></div>
+        
+        
+        <br />
+
+    </li>
+    
+    </div>
+
+</div>

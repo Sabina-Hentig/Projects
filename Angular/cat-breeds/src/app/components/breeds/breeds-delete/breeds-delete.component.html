@@ -1,0 +1,10 @@
+<div *ngIf="id">
+    <h2>Are you sure?</h2>
+    <div>Really delete the breed with id: {{ id }}</div>
+  
+    <button type="button" (click)="onConfirm()">
+      Delete breed with id {{ id }}
+    </button>
+  
+    <button type="button" (click)="onCancel()">Cancel</button>
+  </div>

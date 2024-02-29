@@ -1,0 +1,51 @@
+
+h2 {
+    text-align: center;
+}
+
+.cat-breeds-menu {
+    padding: 0;
+    margin: auto;
+    max-width: 1000px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+
+    /* flexbox */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+    align-items: center;
+}
+
+a {
+    background-color: #c9f277;
+    border-radius: 2px;
+    padding: 1rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    display: grid;
+    color: #261c15;
+    text-align: center;
+    width: 100%;
+    min-width: 70px;
+    margin: .5rem auto;
+    box-sizing: border-box;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+
+    /* flexbox */
+    order: 0;
+    flex: 0 1 auto;
+    align-self: auto;
+}
+
+@media (min-width: 600px) {
+    a {
+        width: 18%;
+        box-sizing: content-box;
+    }
+}
+
+a:hover {
+    background-color: #090b55;
+}

@@ -1,0 +1,25 @@
+<div *ngIf="breeds">
+    <h2>Adding new breeds: {{breeds.name | uppercase}}</h2>
+    <div>
+        <label for="breeds-id">Breed id: </label>
+        <input id="breeds-id" [(ngModel)]="breeds.id" placeholder="id">
+
+        <label for="breeds-name">Breed name: </label>
+        <input id="breeds-name" [(ngModel)]="breeds.name" placeholder="name">
+
+        <label for="breeds-lifeSpan">Breed lifeSpan: </label>
+        <input id="breeds-lifeSpan" [(ngModel)]="breeds.lifeSpan" placeholder="lifeSpan">
+
+        <label for="breeds-description">Breed description: </label>
+        <input id="breeds-description" [(ngModel)]="breeds.description" placeholder="breeds-description">
+    </div>
+
+    <button type="button" (click)="onAdd()">
+        Add
+    </button>
+
+
+    <button type="button" (click)="onBack()">
+        Back
+    </button>
+</div>

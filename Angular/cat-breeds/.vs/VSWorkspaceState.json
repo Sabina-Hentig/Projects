@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.angular",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\components",
+    "\\src\\app\\components\\breeds",
+    "\\src\\app\\components\\breeds\\breeds-add"
+  ],
+  "SelectedNode": "\\src\\app\\components\\breeds\\breeds-add\\breeds-add.component.css",
+  "PreviewInSolutionExplorer": false
+}
