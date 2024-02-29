@@ -1,0 +1,149 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("poze/Background3.jpg") ;
+    background-size: cover;
+    background-blend-mode: difference;
+}
+
+
+.user-card {
+    border: 10px solid #000000;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.user-card img {
+    background-color: #000000;
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+header {
+    color: white;
+    text-align: cenert;
+    padding: 20px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    margin: 0;
+}
+
+.container {
+    max-width: 300px; 
+    background-image: #000000;
+    margin: 0 auto;
+    padding: 30px;
+    display: grid;  
+}
+.user-card {
+    border: 1px solid #000000;
+    margin: 10px;
+    bottom: 0;
+    background: rgba(191, 144, 195, 0.3);
+    color: #f1f1f1;
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(36, 239, 208, 0.7);
+    display: block;
+    
+}
+
+.user-card img {
+    background-color: #000000;
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%; /* Make the image round */
+    margin-bottom: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+}
+
+
+
+form {
+    box-sizing: border-box;
+    text-align: center;
+    font-size: 16px;
+    color: #ffffff;
+    max-width: 500px;
+    margin: auto;
+    display: block;
+
+}
+
+.containerPage {
+    background-color:rgba(191, 144, 195, 0.5);
+    display: grid;  
+    clear: both;
+    display: table;
+    margin: 0 auto;
+  }
+
+
+  
+  input[type=text], input[type=password] {
+    width: auto;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  button {
+    background-color: #04AA6D;
+    border: 1px solid #000000;
+    margin: 20px;
+    bottom: 0;
+    color: #f1f1f1;
+    width: auto;
+    padding: 30px;
+    text-align: center;
+    box-shadow: 0 0 20px rgba(36, 175, 239, 0.7);
+    display: block;
+    margin: 0 auto;
+    
+  }
+  
+  a {
+    color: #f1f1f1;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  button:hover {
+    opacity: 0.8;
+  }
+  
+
+  @media screen and (max-width: 300px) {
+    .backLogin,.logout-link {
+      width: auto;
+    }
+  }
+
+.logout{
+        background-color: #8b46bc;
+        border: 1px solid #000000;
+        margin: 20px;
+        bottom: 0;
+        color: #f1f1f1;
+        width: auto;
+        padding: 30px;
+        text-align: center;
+        box-shadow: 0 0 20px rgba(49, 65, 156, 0.7);
+        display: block;
+
+}
+  
