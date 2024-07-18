@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MovieApp",
+    "\\MovieApp\\Controllers",
+    "\\MovieApp\\Data",
+    "\\MovieApp\\obj",
+    "\\MovieApp\\Properties",
+    "\\MovieApp\\RabbitReceiver",
+    "\\MovieApp\\RabbitSender",
+    "\\MovieApp\\Repository",
+    "\\MovieApp\\Service"
+  ],
+  "SelectedNode": "\\MovieApp\\MovieApp.sln",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QVNSHlxX+y0Bzafpcb7fPL5fipNNaDZNNCoL02T+GxY=",
+  "Source": "ClientApp",
+  "BasePath": "_content/ClientApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
