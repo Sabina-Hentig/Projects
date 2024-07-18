@@ -1,0 +1,27 @@
+
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(àªÅö8é¥é½1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŠÁ®í8é¥é½1
+g	java:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(ŠÁ®í8é¥é½1
+l	java:S103("KSplit this 127 characters long line (which is greater than 120 authorized).(áô×¾øÿÿÿÿ8×¦é½1
+P
+java:S2208".Explicitly import the specific classes needed.(œğÙüÿÿÿÿ8é¥é½1
+7
+java:S2096"Remove this throws clause.(ŠÁ®í8é¥é½1
+¥
+java:S1130"‡Remove the declaration of thrown exception 'javax.xml.parsers.ParserConfigurationException', as it cannot be thrown from method's body.(ŠÁ®í8ƒ™İ›¾1
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(ŠÁ®í8ƒ™İ›¾1
+
+java:S1130"qRemove the declaration of thrown exception 'org.xml.sax.SAXException', as it cannot be thrown from method's body.(ŠÁ®í8ƒ™İ›¾1
+Ÿ
+java:S1130"Remove the declaration of thrown exception 'javax.xml.transform.TransformerException', as it cannot be thrown from method's body.(ŠÁ®í8ƒ™İ›¾1
+L
+java:S6212 "/Declare this local variable with "var" instead.(ÿµ¾¢8‘é¥é½1
+L
+java:S6212$"/Declare this local variable with "var" instead.( ˆ£À8‘é¥é½1
+Q
+java:S6212("/Declare this local variable with "var" instead.(áô×¾øÿÿÿÿ8…™İ›¾1
+L
+java:S6212*"/Declare this local variable with "var" instead.(ÿùÉƒ8…™İ›¾1

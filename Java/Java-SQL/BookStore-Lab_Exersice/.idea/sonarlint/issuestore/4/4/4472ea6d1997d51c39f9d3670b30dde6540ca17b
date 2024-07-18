@@ -1,0 +1,263 @@
+
+e
+java:S1192^"HDefine a constant instead of duplicating this literal "1. Add " 3 times.(›®Ø§8€¨úôÄ1
+m
+java:S1192£"PDefine a constant instead of duplicating this literal "Searching for: " 4 times.(Õæí68€¨úôÄ1
+l
+java:S1192b"JDefine a constant instead of duplicating this literal "5. Filter" 3 times.(©íë¼ıÿÿÿÿ8€¨úôÄ1
+j
+java:S1192c"HDefine a constant instead of duplicating this literal "0. Back" 3 times.(‰ØÈ´ÿÿÿÿÿ8€¨úôÄ1
+H
+java:S1166š"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166¼"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166Ç"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166™"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166§"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166²"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166•"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166´"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+H
+java:S1166¿"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8€¨úôÄ1
+n	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜîÑò8¨úôÄ1
+@
+java:S2325$"#Make "printMenu" a "static" method.(ãˆ²Ù8¨úôÄ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(í¨»8ƒ¨úôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ù˜Ô8„¨úôÄ1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(åíÑ¢ùÿÿÿÿ8„¨úôÄ1
+^
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(ãˆ²Ù8„¨úôÄ1
+c
+java:S1106."AMove this left curly brace to the beginning of next line of code.(£†±Üıÿÿÿÿ8„¨úôÄ1
+c
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8„¨úôÄ1
+c
+java:S11063"AMove this left curly brace to the beginning of next line of code.(“¸æşÿÿÿÿ8„¨úôÄ1
+c
+java:S11066"AMove this left curly brace to the beginning of next line of code.(­Ö¹§úÿÿÿÿ8„¨úôÄ1
+c
+java:S1106L"AMove this left curly brace to the beginning of next line of code.(¥³½æùÿÿÿÿ8„¨úôÄ1
+c
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(È¤»Ëûÿÿÿÿ8„¨úôÄ1
+c
+java:S1106S"AMove this left curly brace to the beginning of next line of code.(®ì×¸şÿÿÿÿ8„¨úôÄ1
+^
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(ËÒ„8„¨úôÄ1
+^
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(”ãÉÌ8„¨úôÄ1
+c
+java:S1106]"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8„¨úôÄ1
+c
+java:S1106g"AMove this left curly brace to the beginning of next line of code.(­Ö¹§úÿÿÿÿ8„¨úôÄ1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(üü™Ùÿÿÿÿÿ8„¨úôÄ1
+d
+java:S1106…"AMove this left curly brace to the beginning of next line of code.(…ÄïŠøÿÿÿÿ8„¨úôÄ1
+d
+java:S1106˜"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8„¨úôÄ1
+d
+java:S1106š"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8„¨úôÄ1
+d
+java:S1106¡"AMove this left curly brace to the beginning of next line of code.(¹ªëŸúÿÿÿÿ8„¨úôÄ1
+_
+java:S1106§"AMove this left curly brace to the beginning of next line of code.(¸²¡è8„¨úôÄ1
+_
+java:S1106©"AMove this left curly brace to the beginning of next line of code.(å¥‡8„¨úôÄ1
+_
+java:S1106²"AMove this left curly brace to the beginning of next line of code.(‰¤¡Ô8„¨úôÄ1
+d
+java:S1106³"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8„¨úôÄ1
+d
+java:S1106¼"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Á"AMove this left curly brace to the beginning of next line of code.(ñ‚­Âûÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Â"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Ç"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Î"AMove this left curly brace to the beginning of next line of code.(ÇÎ’¨ıÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Ï"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8„¨úôÄ1
+d
+java:S1106Ú"AMove this left curly brace to the beginning of next line of code.(­Ö¹§úÿÿÿÿ8„¨úôÄ1
+_
+java:S1106ù"AMove this left curly brace to the beginning of next line of code.(î²…£8…¨úôÄ1
+d
+java:S1106€"AMove this left curly brace to the beginning of next line of code.(Îñò‰şÿÿÿÿ8…¨úôÄ1
+d
+java:S1106—"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106™"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8…¨úôÄ1
+d
+java:S1106"AMove this left curly brace to the beginning of next line of code.(…›¤öûÿÿÿÿ8…¨úôÄ1
+d
+java:S1106Ÿ"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106§"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8…¨úôÄ1
+d
+java:S1106¬"AMove this left curly brace to the beginning of next line of code.(Óâßëùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106°"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106²"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8…¨úôÄ1
+d
+java:S1106·"AMove this left curly brace to the beginning of next line of code.(ƒØŠúÿÿÿÿ8…¨úôÄ1
+_
+java:S1106½"AMove this left curly brace to the beginning of next line of code.(áÏ¨ƒ8…¨úôÄ1
+_
+java:S1106¿"AMove this left curly brace to the beginning of next line of code.(å¥‡8…¨úôÄ1
+d
+java:S1106Æ"AMove this left curly brace to the beginning of next line of code.(şƒ­”úÿÿÿÿ8…¨úôÄ1
+d
+java:S1106Ì"AMove this left curly brace to the beginning of next line of code.(´×òšùÿÿÿÿ8…¨úôÄ1
+_
+java:S1106Õ"AMove this left curly brace to the beginning of next line of code.(¿Ø…Û8…¨úôÄ1
+d
+java:S1106Ö"AMove this left curly brace to the beginning of next line of code.(˜ïˆÿÿÿÿÿ8…¨úôÄ1
+d
+java:S1106à"AMove this left curly brace to the beginning of next line of code.(­Ö¹§úÿÿÿÿ8…¨úôÄ1
+d
+java:S1106ø"AMove this left curly brace to the beginning of next line of code.(ìÈ­¥şÿÿÿÿ8…¨úôÄ1
+_
+java:S1106ş"AMove this left curly brace to the beginning of next line of code.(Á«øı8…¨úôÄ1
+d
+java:S1106“"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106•"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8…¨úôÄ1
+_
+java:S1106š"AMove this left curly brace to the beginning of next line of code.(ÌÎ“8…¨úôÄ1
+d
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(ßßıÿÿÿÿ8…¨úôÄ1
+_
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(å¥‡8…¨úôÄ1
+^
+java:S1106«"AMove this left curly brace to the beginning of next line of code.(¶îçr8…¨úôÄ1
+d
+java:S1106¬"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8…¨úôÄ1
+d
+java:S1106´"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8…¨úôÄ1
+_
+java:S1106¹"AMove this left curly brace to the beginning of next line of code.(‹ÀÈ8ë£ûôÄ1
+d
+java:S1106½"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8ë£ûôÄ1
+d
+java:S1106¿"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8À»èõÄ1
+P
+java:S2208".Explicitly import the specific classes needed.(õÆ²ùûÿÿÿÿ8¹¨úôÄ1
+O
+java:S6126%"2Replace this String concatenation with Text block.(µ¾ÃŞ8»¨úôÄ1
+Q
+java:S62121"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8»¨úôÄ1
+i
+java:S11323"GMove the "x" string literal on the left side of this string comparison.(“¸æşÿÿÿÿ8½¨úôÄ1
+Q
+java:S6212d"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8¿¨úôÄ1
+R
+java:S6212†"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8¿¨úôÄ1
+M
+java:S6212•"/Declare this local variable with "var" instead.(°úÍÖ8Á¨úôÄ1
+M
+java:S6212—"/Declare this local variable with "var" instead.(‡ÚÎ÷8Á¨úôÄ1
+U
+java:S1108š"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Á¨úôÄ1
+R
+java:S6212¢"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Á¨úôÄ1
+O
+java:S1108©"1Move this "else" keyword to a new dedicated line.(å¥‡8Á¨úôÄ1
+^
+java:S1612¬"@Replace this lambda with method reference 'System.out::println'.(èûâ8Â¨úôÄ1
+U
+java:S1108¼"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Ã¨úôÄ1
+R
+java:S6212´"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ã¨úôÄ1
+U
+java:S1108Ç"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Ä¨úôÄ1
+R
+java:S6212Ä"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ä¨úôÄ1
+M
+java:S6212Å"/Declare this local variable with "var" instead.(Ñ‰Ñú8Ä¨úôÄ1
+R
+java:S6212Ø"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Å¨úôÄ1
+R
+java:S6212"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ç¨úôÄ1
+M
+java:S6212ƒ"/Declare this local variable with "var" instead.(Ñ‰Ñú8Ç¨úôÄ1
+M
+java:S6212–"/Declare this local variable with "var" instead.(†õŞ 8Ç¨úôÄ1
+U
+java:S1108™"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Ç¨úôÄ1
+U
+java:S1108§"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8È¨úôÄ1
+R
+java:S6212 "/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8È¨úôÄ1
+R
+java:S6212®"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8É¨úôÄ1
+M
+java:S6212¯"/Declare this local variable with "var" instead.(Ñ‰Ñú8É¨úôÄ1
+U
+java:S1108²"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8É¨úôÄ1
+R
+java:S6212¸"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8É¨úôÄ1
+O
+java:S1108¿"1Move this "else" keyword to a new dedicated line.(å¥‡8Ê¨úôÄ1
+c
+java:S1612Â"@Replace this lambda with method reference 'System.out::println'.(¢§ ïûÿÿÿÿ8Ê¨úôÄ1
+R
+java:S6212Ç"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ê¨úôÄ1
+M
+java:S6212É"/Declare this local variable with "var" instead.(„Ô¡‡8Ê¨úôÄ1
+R
+java:S6212Í"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ì¨úôÄ1
+M
+java:S6212Ï"/Declare this local variable with "var" instead.(„Ô¡‡8ÌìèõÄ1
+R
+java:S6212İ"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Í¨úôÄ1
+R
+java:S6212ÿ"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Î¨úôÄ1
+M
+java:S6212Š"/Declare this local variable with "var" instead.(²Ãõ8Î¨úôÄ1
+L
+java:S6212’"/Declare this local variable with "var" instead.(ŠßçK8Î¨úôÄ1
+U
+java:S1108•"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Î¨úôÄ1
+R
+java:S6212›"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ğ¨úôÄ1
+O
+java:S1108¢"1Move this "else" keyword to a new dedicated line.(å¥‡8²¤ûôÄ1
+^
+java:S1612¥"@Replace this lambda with method reference 'System.out::println'.(¼ÅŸî8²¤ûôÄ1
+U
+java:S1108´"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Ğ¨úôÄ1
+R
+java:S6212­"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8Ğ¨úôÄ1
+R
+java:S6212±"/Declare this local variable with "var" instead.(”ÑéÄÿÿÿÿÿ8Ğ¨úôÄ1
+R
+java:S6212»"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ8ĞìèõÄ1
+M
+java:S6212¼"/Declare this local variable with "var" instead.(Ñ‰Ñú8Ñ¨úôÄ1
+U
+java:S1108¿"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8Ñ¨úôÄ1
+W
+java:S1128	"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8àÏë•Æ1
+m
+java:S1128"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ8àÏë•Æ1
+g
+java:S1128"ERemove this unused import 'javax.xml.transform.TransformerException'.(¨Û¥üÿÿÿÿ8àÏë•Æ1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8àÏë•Æ1
+O
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8àÏë•Æ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8àÏë•Æ1
+Q
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ8áÏë•Æ1

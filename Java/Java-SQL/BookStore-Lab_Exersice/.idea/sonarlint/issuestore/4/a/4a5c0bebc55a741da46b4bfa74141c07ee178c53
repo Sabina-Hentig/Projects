@@ -1,0 +1,23 @@
+
+o	java:S109"SAssign this magic number 13 to a well-named constant, and use the constant instead.(ˆÁÑù8€¼¨š¾1
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(‚ÇùÆ8€¼¨š¾1
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Šä‘˜ÿÿÿÿÿ8€¼¨š¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(çß±ñ8‚¼¨š¾1
+c
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(ÿÚåàøÿÿÿÿ8‚¼¨š¾1
+^
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ù¡ä±8‚¼¨š¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ˆÁÑù8‚¼¨š¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ò’±8‚¼¨š¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‚ÇùÆ8‚¼¨š¾1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Šä‘˜ÿÿÿÿÿ8‚¼¨š¾1
+P
+java:S4248"3Refactor this code to use a "static final" Pattern.(ò’±8†¼¨š¾1
+Y
+java:S6353"<Use concise character class syntax '\\d' instead of '[0-9]'.(ò’±8†¼¨š¾1

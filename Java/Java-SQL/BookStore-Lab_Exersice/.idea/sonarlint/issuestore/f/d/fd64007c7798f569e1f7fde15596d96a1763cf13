@@ -1,0 +1,131 @@
+
+l	java:S109["RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ò€‰ÿÿÿÿÿ
+g	java:S109\"RAssign this magic number 3 to a well-named constant, and use the constant instead.(Â¥Ú×
+l	java:S109]"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ƒ›ÿøøÿÿÿÿ
+s	java:S109^"RAssign this magic number 5 to a well-named constant, and use the constant instead.(óŠõ»üÿÿÿÿ8‰äĞï½1
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Úïï
+m	java:S109€"RAssign this magic number 3 to a well-named constant, and use the constant instead.(°‡Èáıÿÿÿÿ
+m	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(€»“úÿÿÿÿ
+`	java:S1127"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112N"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112q"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112…"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+h
+java:S1192*"RDefine a constant instead of duplicating this literal "yearofpublication" 3 times.(Ú«áÈ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(œÅ¾šÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÙêÏúøÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ş³§üÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(—™÷
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(Œ‡Ü‘
+W
+java:S11060"AMove this left curly brace to the beginning of next line of code.(å¥‡
+W
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(Ú«áÈ
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(É®£
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(¢½şáùÿÿÿÿ
+V
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(ğú\
+W
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(ËûÏ
+W
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(É®£
+\
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(‡˜Šûÿÿÿÿ
+\
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(É®£
+W
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(çÍ´Û
+\
+java:S1106j"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106p"AMove this left curly brace to the beginning of next line of code.(É®£
+\
+java:S1106w"AMove this left curly brace to the beginning of next line of code.(ú­ÊÄıÿÿÿÿ
+W
+java:S1106}"AMove this left curly brace to the beginning of next line of code.(­ïã
+X
+java:S1106„"AMove this left curly brace to the beginning of next line of code.(É®£
+j
+java:S2095B"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üê¡ûÿÿÿÿ
+q
+java:S2095Y"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üê¡ûÿÿÿÿ8¿øÌï½1
+c
+java:S2095k"HUse try-with-resources or close this "Connection" in a "finally" clause.(êµ¬ûÿÿÿÿ
+j
+java:S2095m"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üê¡ûÿÿÿÿ
+q
+java:S2095!"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(üê¡ûÿÿÿÿ8œ‡Ïï½1
+l	java:S103X"KSplit this 121 characters long line (which is greater than 120 authorized).(ƒ¥ì¢øÿÿÿÿ8¶ÔÑï½1
+D
+java:S2208".Explicitly import the specific classes needed.(´İ…Å
+H
+java:S11086"2Move this "catch" keyword to a new dedicated line.(É®£
+J
+java:S6212"/Declare this local variable with "var" instead.(êµ¬ûÿÿÿÿ
+Q
+java:S6437"6Revoke and change this password, as it is compromised.(êµ¬ûÿÿÿÿ
+J
+java:S6212 "/Declare this local variable with "var" instead.(±­šÉşÿÿÿÿ
+J
+java:S6212!"/Declare this local variable with "var" instead.(üê¡ûÿÿÿÿ
+E
+java:S6212#"/Declare this local variable with "var" instead.(ò¡¥¹
+G
+java:S11080"1Move this "else" keyword to a new dedicated line.(å¥‡
+J
+java:S6212&"/Declare this local variable with "var" instead.(·ç…áşÿÿÿÿ
+H
+java:S1108M"2Move this "catch" keyword to a new dedicated line.(É®£
+D
+java:S6212@"/Declare this local variable with "var" instead.(ğú\
+K
+java:S6437@"6Revoke and change this password, as it is compromised.(ğú\
+E
+java:S6212A"/Declare this local variable with "var" instead.(ğòü±
+J
+java:S6212B"/Declare this local variable with "var" instead.(üê¡ûÿÿÿÿ
+E
+java:S6212C"/Declare this local variable with "var" instead.(ò¡¥¹
+J
+java:S6212E"/Declare this local variable with "var" instead.(·ç…áşÿÿÿÿ
+H
+java:S1108b"2Move this "catch" keyword to a new dedicated line.(É®£
+J
+java:S6212W"/Declare this local variable with "var" instead.(êµ¬ûÿÿÿÿ
+Q
+java:S6437W"6Revoke and change this password, as it is compromised.(êµ¬ûÿÿÿÿ
+J
+java:S6212X"/Declare this local variable with "var" instead.(ƒ¥ì¢øÿÿÿÿ
+J
+java:S6212Y"/Declare this local variable with "var" instead.(üê¡ûÿÿÿÿ
+H
+java:S1108p"2Move this "catch" keyword to a new dedicated line.(É®£
+J
+java:S6212k"/Declare this local variable with "var" instead.(êµ¬ûÿÿÿÿ
+Q
+java:S6437k"6Revoke and change this password, as it is compromised.(êµ¬ûÿÿÿÿ
+J
+java:S6212l"/Declare this local variable with "var" instead.(ÿõ¸Äøÿÿÿÿ
+J
+java:S6212m"/Declare this local variable with "var" instead.(üê¡ûÿÿÿÿ
+E
+java:S6212z"/Declare this local variable with "var" instead.(—±Õ¦
+I
+java:S1108„"2Move this "catch" keyword to a new dedicated line.(É®£
+E
+java:S6212{"/Declare this local variable with "var" instead.(²¶“
+L
+java:S6437{"6Revoke and change this password, as it is compromised.(²¶“
+E
+java:S6212|"/Declare this local variable with "var" instead.(ÔÿàÌ

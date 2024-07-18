@@ -1,0 +1,42 @@
+
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(±”ú™ÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(œİ¹ı
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŞÎ¯¨üÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ç¨á•
+W
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(å¥‡
+\
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(ä›™¤ùÿÿÿÿ
+W
+java:S1106*"AMove this left curly brace to the beginning of next line of code.(õ¡±Ø
+W
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(¬¯›Ï
+W
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(å¥‡
+\
+java:S11066"AMove this left curly brace to the beginning of next line of code.(—šëšùÿÿÿÿ
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(óöğ¾øÿÿÿÿ
+^
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(å¥‡8«¬Ò™¾1
+c
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(¥éèúÿÿÿÿ8Ççñ™¾1
+G
+java:S1108 "1Move this "else" keyword to a new dedicated line.(å¥‡
+N
+java:S1108/"1Move this "else" keyword to a new dedicated line.(å¥‡8°¬Ò™¾1
+N
+java:S1108?"1Move this "else" keyword to a new dedicated line.(å¥‡8Íçñ™¾1
+W
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ8ùü„š¾1
+m
+java:S1128	"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ8ùü„š¾1
+g
+java:S1128
+"ERemove this unused import 'javax.xml.transform.TransformerException'.(¨Û¥üÿÿÿÿ8ùü„š¾1
+R
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ùü„š¾1

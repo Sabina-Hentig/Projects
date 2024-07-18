@@ -1,0 +1,60 @@
+
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÍóÓÍşÿÿÿÿ8â¼Õ›¾1
+]
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¹ô‚s8â¼Õ›¾1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡ÖÖ¨ûÿÿÿÿ8â¼Õ›¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ª¨°‚8â¼Õ›¾1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥‡8â¼Õ›¾1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ø÷ƒøÿÿÿÿ8â¼Õ›¾1
+^
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(½Æßô8â¼Õ›¾1
+c
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(ÚÕÜıÿÿÿÿ8â¼Õ›¾1
+^
+java:S1106/"AMove this left curly brace to the beginning of next line of code.( …°8â¼Õ›¾1
+^
+java:S11061"AMove this left curly brace to the beginning of next line of code.(å¥‡8â¼Õ›¾1
+^
+java:S11068"AMove this left curly brace to the beginning of next line of code.(ùïœ‚8â¼Õ›¾1
+c
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(ñş„îùÿÿÿÿ8â¼Õ›¾1
+^
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(å¥‡8â¼Õ›¾1
+^
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(™ºŠ8â¼Õ›¾1
+]
+java:S1106M"AMove this left curly brace to the beginning of next line of code.(å÷¶[8â¼Õ›¾1
+^
+java:S1106Z"AMove this left curly brace to the beginning of next line of code.(±ËŸö8â¼Õ›¾1
+c
+java:S1106d"AMove this left curly brace to the beginning of next line of code.(ÏÜæÃÿÿÿÿÿ8â¼Õ›¾1
+]
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(å÷¶[8±¿×›¾1
+c
+java:S1106z"AMove this left curly brace to the beginning of next line of code.(°ÜÇÚşÿÿÿÿ8ÌŠØ›¾1
+f	java:S103"KSplit this 166 characters long line (which is greater than 120 authorized).(¹ô‚s8ç¼Õ›¾1
+P
+java:S2208".Explicitly import the specific classes needed.(õÆ²ùûÿÿÿÿ8ç¼Õ›¾1
+K
+java:S2208".Explicitly import the specific classes needed.(Î€ŒÙ8ç¼Õ›¾1
+N
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡8é¼Õ›¾1
+N
+java:S11081"1Move this "else" keyword to a new dedicated line.(å¥‡8¸¿×›¾1
+N
+java:S1108?"1Move this "else" keyword to a new dedicated line.(å¥‡8ÔŠØ›¾1
+<
+java:S2211P"Specify a type for: 'book'(ı½›§ùÿÿÿÿ8î¼Õ›¾1
+Q
+java:S2864Z"4Iterate over the "entrySet" instead of the "keySet".(±ËŸö8î¼Õ›¾1
+>
+java:S2211l"Specify a type for: 'client'(•Íåûÿÿÿÿ8ğ¼Õ›¾1
+<
+java:S2211o"Specify a type for: 'book'(ı½›§ùÿÿÿÿ8ñ¼Õ›¾1
+V
+java:S2864z"4Iterate over the "entrySet" instead of the "keySet".(°ÜÇÚşÿÿÿÿ8ñ¼Õ›¾1

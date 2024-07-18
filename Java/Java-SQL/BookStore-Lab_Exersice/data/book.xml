@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bookstore>
+    <book category="children">
+        <title>Harry Potter</title>
+        <author>J K. Rowling</author>
+        <yearOfPublication>2005-09-09</yearOfPublication>
+        <price>29.99</price>
+    </book>
+    <book category="web">
+        <title>Learning XML</title>
+        <author>Erik T. Ray</author>
+        <yearOfPublication>2003-09-09</yearOfPublication>
+        <price>39.99</price>
+    </book>
+    <book>
+        <title>T1</title>
+        <author>A1</author>
+        <yearOfPublication>1990-09-09</yearOfPublication>
+        <price>25.99</price>
+    </book>
+
+    <book>
+        <title>T2</title>
+        <author>A2</author>
+        <yearOfPublication>2020-09-09</yearOfPublication>
+        <price>68.99</price>
+    </book>
+    <book>
+        <title>T3</title>
+        <author>A4</author>
+        <yearOfPublication>2020-03-08</yearOfPublication>
+        <price>12.99</price>
+    </book>
+    <book>
+        <title>titlu8</title>
+        <author>author8</author>
+        <yearOfPublication>2020-08-08</yearOfPublication>
+        <price>9.99</price>
+    </book>
+    <book>
+        <title>t19</title>
+        <author>a19</author>
+        <yearOfPublication>2019-08-07</yearOfPublication>
+        <price>23.99</price>
+    </book>
+</bookstore>

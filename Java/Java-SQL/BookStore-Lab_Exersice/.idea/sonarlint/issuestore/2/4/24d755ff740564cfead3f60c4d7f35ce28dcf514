@@ -1,0 +1,40 @@
+
+j
+java:S1192"TDefine a constant instead of duplicating this literal "id must not be null" 3 times.(èÁ™Ü
+o
+java:S1104"TMake entities a static final constant or non-public and provide accessors if needed.(£‘¿ÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(–ì 
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ò…“
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜šŒ‹
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(úÎã‰
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¢¿ëãûÿÿÿÿ
+W
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(øøé‹
+\
+java:S1106,"AMove this left curly brace to the beginning of next line of code.( ÃÊ¸úÿÿÿÿ
+W
+java:S1106-"AMove this left curly brace to the beginning of next line of code.(Ê÷³¹
+W
+java:S11066"AMove this left curly brace to the beginning of next line of code.(¤ªÙç
+\
+java:S11067"AMove this left curly brace to the beginning of next line of code.(¢¿ëãûÿÿÿÿ
+\
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(–½—ñşÿÿÿÿ
+W
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(Ê÷³¹
+^	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ò…“
+D
+java:S1905C")Remove this unnecessary cast to "Object".(„¬Ä€ùÿÿÿÿ
+P
+java:S1128"5Remove this unused import 'org.xml.sax.SAXException'.(ü…ãşÿÿÿÿ
+f
+java:S1128	"KRemove this unused import 'javax.xml.parsers.ParserConfigurationException'.(ûıƒøÿÿÿÿ
+`
+java:S1128
+"ERemove this unused import 'javax.xml.transform.TransformerException'.(¨Û¥üÿÿÿÿ
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ

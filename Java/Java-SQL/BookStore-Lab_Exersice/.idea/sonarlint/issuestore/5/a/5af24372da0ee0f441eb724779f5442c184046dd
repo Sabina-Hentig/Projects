@@ -1,0 +1,87 @@
+
+s	java:S1093"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ùÑ·¶ÿÿÿÿÿ8ïÌ†è½1
+s	java:S1095"RAssign this magic number 3 to a well-named constant, and use the constant instead.(şü‚çùÿÿÿÿ8ïÌ†è½1
+s	java:S1098"RAssign this magic number 4 to a well-named constant, and use the constant instead.(¾¡¨Çûÿÿÿÿ8ïÌ†è½1
+B
+java:S1166&"%Either log or rethrow this exception.(ï­£Ä8ğÌ†è½1
+G
+java:S1166@"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ8ğÌ†è½1
+B
+java:S1166D"%Either log or rethrow this exception.(Ãôş•8ğÌ†è½1
+B
+java:S1166Y"%Either log or rethrow this exception.(ï­£Ä8ğÌ†è½1
+B
+java:S1166t"%Either log or rethrow this exception.(ï­£Ä8ğÌ†è½1
+f
+java:S5612-"DReduce this lambda expression number of lines from 17 to at most 10.(À‰Âæÿÿÿÿÿ8ñÌ†è½1
+‚
+java:S1488L"`Immediately return this expression instead of assigning it to the temporary variable "optional".(ÁŠ¡øÿÿÿÿ8ñÌ†è½1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¡³ª8òÌ†è½1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ç·¨ıÿÿÿÿ8òÌ†è½1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ë¡õ‘8òÌ†è½1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÍÛµíıÿÿÿÿ8òÌ†è½1
+c
+java:S1106#"AMove this left curly brace to the beginning of next line of code.( ÖáÓıÿÿÿÿ8òÌ†è½1
+c
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8òÌ†è½1
+^
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(ï­£Ä8òÌ†è½1
+c
+java:S1106,"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8òÌ†è½1
+c
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8óÌ†è½1
+c
+java:S1106@"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ8óÌ†è½1
+^
+java:S1106D"AMove this left curly brace to the beginning of next line of code.(Ãôş•8óÌ†è½1
+c
+java:S1106J"AMove this left curly brace to the beginning of next line of code.(‡˜Šûÿÿÿÿ8óÌ†è½1
+]
+java:S1106Q"AMove this left curly brace to the beginning of next line of code.(í¸ŠA8óÌ†è½1
+^
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(µªñµ8óÌ†è½1
+^
+java:S1106Y"AMove this left curly brace to the beginning of next line of code.(ï­£Ä8óÌ†è½1
+^
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(ä¹¼8óÌ†è½1
+^
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(òæËó8óÌ†è½1
+^
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(“¡ğ³8óÌ†è½1
+c
+java:S1106r"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ8óÌ†è½1
+^
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(ï­£Ä8óÌ†è½1
+f
+java:S2095-"DUse try-with-resources or close this "Stream" in a "finally" clause.(À‰Âæÿÿÿÿÿ8öÌ†è½1
+L
+java:S6212!"/Declare this local variable with "var" instead.(‘®È°8ùÌ†è½1
+O
+java:S1108&"2Move this "catch" keyword to a new dedicated line.(ï­£Ä8ùÌ†è½1
+O
+java:S1108D"2Move this "catch" keyword to a new dedicated line.(Ãôş•8ùÌ†è½1
+<
+java:S2211-"Specify a type for: 'line'(À‰Âæÿÿÿÿÿ8úÌ†è½1
+Q
+java:S62121"/Declare this local variable with "var" instead.(Î´§Ùúÿÿÿÿ8úÌ†è½1
+Q
+java:S62126"/Declare this local variable with "var" instead.(Í¼ºøÿÿÿÿ8ûÌ†è½1
+L
+java:S6212;"/Declare this local variable with "var" instead.(êÖ¿Õ8ûÌ†è½1
+T
+java:S1108@"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ8ûÌ†è½1
+L
+java:S6212R"/Declare this local variable with "var" instead.(‘®È°8üÌ†è½1
+O
+java:S1108Y"2Move this "catch" keyword to a new dedicated line.(ï­£Ä8üÌ†è½1
+L
+java:S6212T"/Declare this local variable with "var" instead.(µªñµ8üÌ†è½1
+L
+java:S6212i"/Declare this local variable with "var" instead.(‘®È°8ıÌ†è½1
+<
+java:S2211l"Specify a type for: 'book'(ÉÒ’ßıÿÿÿÿ8şÌ†è½1
+O
+java:S1108t"2Move this "catch" keyword to a new dedicated line.(ï­£Ä8şÌ†è½1

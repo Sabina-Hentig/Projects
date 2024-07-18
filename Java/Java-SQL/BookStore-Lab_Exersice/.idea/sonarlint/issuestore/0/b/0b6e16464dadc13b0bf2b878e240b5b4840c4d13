@@ -1,0 +1,8 @@
+
+a
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ8è×õÄ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¯ü¦Çûÿÿÿÿ8 ÷ÖõÄ1
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¯ü¦Çûÿÿÿÿ8è×õÄ1
+A
+java:S2063"Make this class "Serializable".(¯ü¦Çûÿÿÿÿ8‘è×õÄ1

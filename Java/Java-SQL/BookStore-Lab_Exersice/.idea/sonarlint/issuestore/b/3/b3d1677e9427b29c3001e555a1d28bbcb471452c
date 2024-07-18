@@ -1,0 +1,87 @@
+
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½ÿ£ˆøÿÿÿÿ8öéëôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½ŒÑ¤8öéëôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(­ºì8öéëôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¾³«…8öéëôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥‡8öéëôÄ1
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Óš”­8öéëôÄ1
+c
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(„ÂòÎûÿÿÿÿ8öéëôÄ1
+^
+java:S1106&"AMove this left curly brace to the beginning of next line of code.(÷öß¿8öéëôÄ1
+^
+java:S1106("AMove this left curly brace to the beginning of next line of code.(å¥‡8öéëôÄ1
+c
+java:S1106/"AMove this left curly brace to the beginning of next line of code.(®ÆÂüÿÿÿÿ8÷éëôÄ1
+c
+java:S11064"AMove this left curly brace to the beginning of next line of code.(ñÚÖÌúÿÿÿÿ8÷éëôÄ1
+^
+java:S11067"AMove this left curly brace to the beginning of next line of code.(å¥‡8÷éëôÄ1
+^
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(—Èµõ8÷éëôÄ1
+^
+java:S1106H"AMove this left curly brace to the beginning of next line of code.(óò–ô8÷éëôÄ1
+c
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(ÙÇ›ôùÿÿÿÿ8÷éëôÄ1
+c
+java:S1106X"AMove this left curly brace to the beginning of next line of code.(ïµªùÿÿÿÿ8õ£ïôÄ1
+c
+java:S1106b"AMove this left curly brace to the beginning of next line of code.(ÙÇ›ôùÿÿÿÿ8õ£ïôÄ1
+^
+java:S1106h"AMove this left curly brace to the beginning of next line of code.(ÚİñŞ8šÔÀõÄ1
+c
+java:S1106l"AMove this left curly brace to the beginning of next line of code.(†¢û«ûÿÿÿÿ8€¹ÂõÄ1
+^
+java:S1106n"AMove this left curly brace to the beginning of next line of code.(å¥‡8€¹ÂõÄ1
+c
+java:S1106t"AMove this left curly brace to the beginning of next line of code.(Óüıôùÿÿÿÿ8€¹ÂõÄ1
+^
+java:S1106v"AMove this left curly brace to the beginning of next line of code.(å¥‡8€¹ÂõÄ1
+c
+java:S1106|"AMove this left curly brace to the beginning of next line of code.(Ñ‹Ææşÿÿÿÿ8ê°ÊõÄ1
+d
+java:S1106†"AMove this left curly brace to the beginning of next line of code.(ÙÇ›ôùÿÿÿÿ8ë°ÊõÄ1
+_
+java:S1106Œ"AMove this left curly brace to the beginning of next line of code.(Î«İˆ8ë°ÊõÄ1
+d
+java:S1106–"AMove this left curly brace to the beginning of next line of code.(ÙÇ›ôùÿÿÿÿ8ë°ÊõÄ1
+^
+java:S1106œ"AMove this left curly brace to the beginning of next line of code.(§à²38ë°ÊõÄ1
+_
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(’¤œ‘8ë°ÊõÄ1
+_
+java:S1106¢"AMove this left curly brace to the beginning of next line of code.(å¥‡8ë°ÊõÄ1
+d
+java:S1106¨"AMove this left curly brace to the beginning of next line of code.(òëªıÿÿÿÿÿ8ë°ÊõÄ1
+_
+java:S1106ª"AMove this left curly brace to the beginning of next line of code.(å¥‡8ë°ÊõÄ1
+K
+java:S2208	".Explicitly import the specific classes needed.(Î€ŒÙ8ùéëôÄ1
+N
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡8ŒêëôÄ1
+N
+java:S1108("1Move this "else" keyword to a new dedicated line.(å¥‡8êëôÄ1
+N
+java:S11087"1Move this "else" keyword to a new dedicated line.(å¥‡8êëôÄ1
+N
+java:S1108n"1Move this "else" keyword to a new dedicated line.(å¥‡8Š¹ÂõÄ1
+]
+java:S1612p"@Replace this lambda with method reference 'System.out::println'.(æŞçõ8‹¹ÂõÄ1
+N
+java:S1108v"1Move this "else" keyword to a new dedicated line.(å¥‡8‹¹ÂõÄ1
+]
+java:S1612x"@Replace this lambda with method reference 'System.out::println'.(š†Å‰8‹¹ÂõÄ1
+O
+java:S1108¢"1Move this "else" keyword to a new dedicated line.(å¥‡8ü°ÊõÄ1
+^
+java:S1612¤"@Replace this lambda with method reference 'System.out::println'.(ŸÕŸï8ŒäÒõÄ1
+O
+java:S1108ª"1Move this "else" keyword to a new dedicated line.(å¥‡8ı°ÊõÄ1
+^
+java:S1612¬"@Replace this lambda with method reference 'System.out::println'.(å¡Ëü8ÔÙÓõÄ1

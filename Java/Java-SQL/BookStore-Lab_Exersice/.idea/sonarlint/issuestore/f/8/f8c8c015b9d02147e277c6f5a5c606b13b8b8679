@@ -1,0 +1,91 @@
+
+l	java:S109I"RAssign this magic number 2 to a well-named constant, and use the constant instead.(³ˆ•øÿÿÿÿ
+l	java:S109J"RAssign this magic number 3 to a well-named constant, and use the constant instead.(˜¾‰žùÿÿÿÿ
+l	java:S109K"RAssign this magic number 4 to a well-named constant, and use the constant instead.(È”ØÚúÿÿÿÿ
+;
+java:S11663"%Either log or rethrow this exception.(ï­£Ä
+;
+java:S1166>"%Either log or rethrow this exception.(ï­£Ä
+@
+java:S1166R"%Either log or rethrow this exception.(€€¤ÿøÿÿÿÿ
+;
+java:S1166V"%Either log or rethrow this exception.(Ãôþ•
+;
+java:S1166m"%Either log or rethrow this exception.(ï­£Ä
+_
+java:S5612D"DReduce this lambda expression number of lines from 15 to at most 10.(À‰Âæÿÿÿÿÿ
+e	java:S117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒë‰
+M
+java:S2789"2Replace this null literal by an "Optional" object.(à™ã›ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¡³ª
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ƒÖÜŸ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(´Š´ë
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(˜õ°Üûÿÿÿÿ
+\
+java:S1106 "AMove this left curly brace to the beginning of next line of code.(„•õ‹ÿÿÿÿÿ
+W
+java:S1106'"AMove this left curly brace to the beginning of next line of code.(“¡ð³
+\
+java:S11061"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S11063"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+\
+java:S11068"AMove this left curly brace to the beginning of next line of code.(ÍÛµíýÿÿÿÿ
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.( ÖáÓýÿÿÿÿ
+\
+java:S1106<"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+W
+java:S1106>"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+\
+java:S1106C"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+\
+java:S1106P"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿ
+\
+java:S1106R"AMove this left curly brace to the beginning of next line of code.(€€¤ÿøÿÿÿÿ
+W
+java:S1106V"AMove this left curly brace to the beginning of next line of code.(Ãôþ•
+W
+java:S1106\"AMove this left curly brace to the beginning of next line of code.(àÕÍ°
+\
+java:S1106_"AMove this left curly brace to the beginning of next line of code.(¥ÿ»’øÿÿÿÿ
+V
+java:S1106f"AMove this left curly brace to the beginning of next line of code.(Èž²c
+W
+java:S1106i"AMove this left curly brace to the beginning of next line of code.(µªñµ
+W
+java:S1106m"AMove this left curly brace to the beginning of next line of code.(ï­£Ä
+_
+java:S2095D"DUse try-with-resources or close this "Stream" in a "finally" clause.(À‰Âæÿÿÿÿÿ
+`	java:S103k"KSplit this 143 characters long line (which is greater than 120 authorized).(ïòôô
+J
+java:S6212("/Declare this local variable with "var" instead.(Ðä¡ˆúÿÿÿÿ
+7
+java:S2211+"Specify a type for: 'client'(í‹”³øÿÿÿÿ
+H
+java:S11083"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+J
+java:S62129"/Declare this local variable with "var" instead.(Ðä¡ˆúÿÿÿÿ
+H
+java:S1108>"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+H
+java:S1108V"2Move this "catch" keyword to a new dedicated line.(Ãôþ•
+5
+java:S2211D"Specify a type for: 'line'(À‰Âæÿÿÿÿÿ
+J
+java:S6212G"/Declare this local variable with "var" instead.(Î´§Ùúÿÿÿÿ
+J
+java:S6212K"/Declare this local variable with "var" instead.(È”ØÚúÿÿÿÿ
+E
+java:S6212M"/Declare this local variable with "var" instead.(‡ÚÎ÷
+M
+java:S1108R"2Move this "catch" keyword to a new dedicated line.(€€¤ÿøÿÿÿÿ
+J
+java:S6212g"/Declare this local variable with "var" instead.(Ðä¡ˆúÿÿÿÿ
+H
+java:S1108m"2Move this "catch" keyword to a new dedicated line.(ï­£Ä
+E
+java:S6212i"/Declare this local variable with "var" instead.(µªñµ
